@@ -1,0 +1,1 @@
+const String registerBg ='assets/register.png';
